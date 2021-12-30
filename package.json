@@ -8,7 +8,6 @@
     "@fortawesome/free-solid-svg-icons": "^5.8.2",
     "@fortawesome/react-fontawesome": "^0.1.4",
     "md5": "^2.2.1",
-    "node-sass": "^4.13.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-helmet": "^5.2.1",
@@ -41,6 +40,7 @@
   },
   "license": "BSD-3-Clause",
   "devDependencies": {
-    "husky": "^7.0.0"
+    "husky": "^7.0.0",
+    "sass": "^1.45.1"
   }
 }

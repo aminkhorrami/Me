@@ -1,19 +1,19 @@
 
-<img src="https://www.gravatar.com/avatar/22a507f597893da182db3e0913f8abbb?s=200" alt="Alireza Sheikholmolouki" style="border-radius: 10px;" />
+<img src="https://www.gravatar.com/avatar/4e2ea46490833193e44172bad8b63e0b?s=200" alt="Amin Khorrami" style="border-radius: 10px;" />
 
-# Alireza Sheikholmolouki
+# Amin Khorrami
 
-Solution-Driven Front-end Engineer with 7+ years of advanced programming and leveraging JavaScript to build creative web applications, websites, and outside-the-box features that drive business growth and improve UX.
+Solution-Driven Front-end Engineer with 5+ years of advanced programming and leveraging JavaScript to build creative web applications, websites, and outside-the-box features that drive business growth and improve UX.
 
 <p align="left">
-    <a href="https://linkedin.com/in/alireza-sheikholmolouki/" target="_new">LinkedIn</a> ●
-    <a href="https://github.com/Alireza29675" target="_new">GitHub</a> ●
-    <a href="https://twitter.com/Alireza29675" target="_new">Twitter</a>
+    <a href="https://www.linkedin.com/in/aminKhorrami/" target="_new">LinkedIn</a> ●
+    <a href="https://github.com/aminkhorrami" target="_new">GitHub</a> ●
+    <a href="https://twitter.com/khorrami_amin" target="_new">Twitter</a>
 </p>
 
-- **Location:** Helsinki, Finland
-- **Phone:** [+989120563900](tel:+989120563900)
-- **Email:** [alireza.sheikholmolouki@gmail.com](mailto:alireza.sheikholmolouki@gmail.com)
+- **Location:** Tehran, Iran
+- **Phone:** [+989383831788](tel:+989383831788)
+- **Email:** [khorramiamindev@gmail.com](mailto:khorramiamindev@gmail.com)
 
 ## Highlight Skills
 
@@ -46,17 +46,22 @@ Solution-Driven Front-end Engineer with 7+ years of advanced programming and lev
 
 ## Experiences
 
-### Front-end Engineer _at Cafe Bazaar_
+### Front-end Engineer _at Dorfak Intelligent systems_
 Tehran, Iran
 _Jun 2020 - Nov 2021_
 
 
-### Software Developer _at Theatre.js_
-Remote with Helsinki Area, Finland
+### Front-end Engineer _at SynApps_
+Remote with Toronto Area, Canada
 _Nov 2018 - Nov 2019_
 
 
-### Co-Founder of HackaIran _at Senior Representative of HackaGlobal_
+### Front-end Engineer _at SynApps_
+Remote with Tor Area, Finland
+_Nov 2018 - Nov 2019_
+
+
+### Co-Founder of Misafeh _at Senior Representative of HackaGlobal_
 Iran
 _Jun 2017 - Dec 2018_
 
@@ -84,7 +89,7 @@ _3rd Fanavard National Contest of Sharif University_
 
 Bachelor Degree of **Software Engineering**
 
-Shiraz, Iran _(2017 - 2021)_
+Qazvin, Iran _(2017 - 2021)_
 
 ### NODET Highschool (National Organization for Development of Exceptional Talents)
 

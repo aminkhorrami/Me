@@ -1,20 +1,20 @@
 {
-  "name": "Alireza",
-  "lastName": "Sheikholmolouki",
-  "phoneNumber": "+989120563900",
-  "email": "alireza.sheikholmolouki@gmail.com",
-  "summary": "Solution-Driven Front-end Engineer with 7+ years of advanced programming and leveraging JavaScript to build creative web applications, websites, and outside-the-box features that drive business growth and improve UX.",
+  "name": "Amin",
+  "lastName": "Khorrami",
+  "phoneNumber": "+989383831788",
+  "email": "khorramiamindev@gmail.com",
+  "summary": "Solution-Driven Front-end Engineer with 5+ years of advanced programming and leveraging JavaScript to build creative web applications, websites, and outside-the-box features that drive business growth and improve UX.",
   "birthday": {
-    "year": 1996,
-    "month": 9,
-    "day": 19
+    "year": 1999,
+    "month": 6,
+    "day": 29
   },
   "location": {
-    "city": "Helsinki",
-    "country": "Finland"
+    "city": "Tehran",
+    "country": "Iran"
   },
   "origin": {
-    "city": "Hamadan",
+    "city": "Tehran",
     "country": "Iran"
   },
   "languages": [
@@ -28,14 +28,14 @@
     }
   ],
   "links": {
-    "linkedin": "https://linkedin.com/in/alireza-sheikholmolouki/",
-    "twitter": "https://twitter.com/Alireza29675",
-    "github": "https://github.com/Alireza29675"
+    "linkedin": "https://www.linkedin.com/in/aminKhorrami/",
+    "twitter": "https://twitter.com/khorrami_amin",
+    "github": "https://github.com/aminkhorrami"
   },
   "experiences": [
     {
       "title": "Front-end Engineer",
-      "company": "Cafe Bazaar",
+      "company": "Dorfak Intelligent systems",
       "span": {
         "from": "Jun 2020",
         "to": "Nov 2021"
@@ -44,13 +44,23 @@
       "description": ""
     },
     {
-      "title": "Software Developer",
-      "company": "Theatre.js",
+      "title": "Front-end Engineer",
+      "company": "SynApps",
       "span": {
         "from": "Nov 2018",
         "to": "Nov 2019"
       },
-      "location": "Remote with Helsinki Area, Finland",
+      "location": "Remote with Toronto Area, Canada",
+      "description": ""
+    },
+    {
+      "title": "Front-end Engineer",
+      "company": "SynApps",
+      "span": {
+        "from": "Nov 2018",
+        "to": "Nov 2019"
+      },
+      "location": "Remote with Tor Area, Finland",
       "description": ""
     },
     {
@@ -65,7 +75,7 @@
       "hidden": true
     },
     {
-      "title": "Co-Founder of HackaIran",
+      "title": "Co-Founder of Misafeh",
       "company": "Senior Representative of HackaGlobal",
       "span": {
         "from": "Jun 2017",
@@ -160,7 +170,7 @@
     {
       "name": "Shiraz University of Science and Technology",
       "location": {
-        "city": "Shiraz",
+        "city": "Qazvin",
         "country": "Iran"
       },
       "span": {
