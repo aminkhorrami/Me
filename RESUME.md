@@ -1,9 +1,8 @@
-
 <img src="https://www.gravatar.com/avatar/4e2ea46490833193e44172bad8b63e0b?s=200" alt="Amin Khorrami" style="border-radius: 10px;" />
 
 # Amin Khorrami
 
-Solution-Driven Front-end Engineer with 5+ years of advanced programming and leveraging JavaScript to build creative web applications, websites, and outside-the-box features that drive business growth and improve UX.
+Solution-Driven Front-end Engineer with 4+ years of advanced programming and leveraging JavaScript to build creative web applications, websites, and outside-the-box features that drive business growth and improve UX.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/aminKhorrami/" target="_new">LinkedIn</a> ●
@@ -18,74 +17,92 @@ Solution-Driven Front-end Engineer with 5+ years of advanced programming and lev
 ## Highlight Skills
 
 ### Programming
+
 - Modern Front-end Development Technologies (such as Webpack, SASS, Jest, Babel) _(advanced)_
 - Javascript _(advanced)_
 - Vue.js _(advanced)_
 - React.js _(advanced)_
 - Node.js _(advanced)_
-- Typescript _(intermediate)_
+- Typescript _(advanced)_
 - Three.js _(intermediate)_
 - Redux _(intermediate)_
 - Git _(intermediate)_
 - Real-time systems (WebSocket) _(intermediate)_
-
-### Digital Arts
-- Figma _(advanced)_
-- Adobe Photoshop _(advanced)_
-- Generative Arts _(advanced)_
-- Affinity Designer _(intermediate)_
-- Blender _(intermediate)_
+- Go lang _(intermediate)_
 
 ### Softskills
-- Teaching _(advanced)_
+
+- Teaching _(intermediate)_
 - Leadership _(intermediate)_
 - Agile/Scrum _(intermediate)_
 
+### Digital Arts
+
+- Adobe Photoshop _(advanced)_
+- Ableton _(intermediate)_
+- FL Studio _(intermediate)_
+- Blender _(intermediate)_
+- Figma _(basic)_
+- Generative Arts _(basic)_
+
 ### Other
-- Clay Sculpting _(intermediate)_
+
+- Kamancheh Playing _(intermediate)_
+- Keyboard Playing _(basic)_
 
 ## Experiences
 
 ### Front-end Engineer _at Dorfak Intelligent systems_
-Tehran, Iran
-_Jun 2020 - Nov 2021_
 
+Tehran, Iran
+_Nov 2020 - Present_
+Automate the application of smart trading strategies for multiple and variant investors.
+
+### Freelance Front-end Engineer at Various International Companies _at _
+
+Remote with Toronto Area and Tbilisi
+_Dec 2017 - Sep 2020_
 
 ### Front-end Engineer _at SynApps_
-Remote with Toronto Area, Canada
-_Nov 2018 - Nov 2019_
 
-
-### Front-end Engineer _at SynApps_
-Remote with Tor Area, Finland
-_Nov 2018 - Nov 2019_
-
-
-### Co-Founder of Misafeh _at Senior Representative of HackaGlobal_
-Iran
-_Jun 2017 - Dec 2018_
-
-
-### Programming Teacher _at Tehran Institute of Technology, Sampad (NODET), Kabiry Institute_
 Tehran, Iran
-_Apr 2013 - Jan 2018_
+_Aug 2019 - Jun 2020_
+Help doctors to document and access all patient data, streamline workflows and help to improve both patient safety and doctor experience.
 
+### Co-Founder, Web Developer _at Misarfeh_
 
-## Honors
+Tehan, Iran
+_Oct 2018 - Sep 2019_
+Founded a startup that focuses on the development of new purchases.
 
-### Gold Medal, National Rank (1) Holder _at Web Design Olympiads_
-2013, Iran
+### Programming Teacher _at Imam Khomeini International University, Sampad (NODET)_
 
-_14th National WorldSkills Competition_
+Tehran, Iran
+_Apr 2016 - Dec 2018_
 
-### National Rank (1) Holder _at Front-end Development_
-2016, Iran
+## Achievements
+
+### Member of University's ICPC team _at Software Engineering_
+
+2020, Iran
+
+_43th ACM International Collegiate Programming Contest_
+
+### Voted “Best Engineer” by the bachelor’s student body _at Software Engineering_
+
+2019, Iran
+
+_Imam Khomeini University_
+
+### National Rank (3) Holder _at Front-end Development_
+
+2017, Iran
 
 _3rd Fanavard National Contest of Sharif University_
 
 ## Education
 
-### Shiraz University of Science and Technology
+### Imam Khomeini International University
 
 Bachelor Degree of **Software Engineering**
 
@@ -95,4 +112,4 @@ Qazvin, Iran _(2017 - 2021)_
 
 Diploma of **Mathematics and Physics**
 
-Karaj, Iran _(2007 - 2014)_
+Karaj, Iran _(2013 - 2017)_

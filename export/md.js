@@ -27,9 +27,9 @@ ${config.summary}
 ## Highlight Skills
 
 ${Object.keys(config.skills)
-  .map(category => {
+  .map((category) => {
     return `### ${category}\n${config.skills[category]
-      .map(skill => {
+      .map((skill) => {
         return `- ${skill.name} _(${skill.level})_`
       })
       .join("\n")}`
@@ -39,8 +39,8 @@ ${Object.keys(config.skills)
 ## Experiences
 
 ${config.experiences
-  .filter(item => !item.hidden)
-  .map(experience => {
+  .filter((item) => !item.hidden)
+  .map((experience) => {
     const { title, span, company, location, description } = experience
     return `### ${title} _at ${company}_\n${location}\n_${span.from} - ${span.to}_\n${description}`
   })
@@ -48,9 +48,9 @@ ${config.experiences
 
 ## Honors
 
-${config.honors
-  .filter(item => !item.hidden)
-  .map(honor => {
+${config.achievements
+  .filter((item) => !item.hidden)
+  .map((honor) => {
     const { rank, field, year, location } = honor
     return `### ${rank} _at ${field}_\n${year}, ${location}\n\n_${honor.in}_`
   })
@@ -59,8 +59,8 @@ ${config.honors
 ## Education
 
 ${config.education
-  .filter(item => !item.hidden)
-  .map(edu => {
+  .filter((item) => !item.hidden)
+  .map((edu) => {
     const { name, location, span, field, degree } = edu
     return `### ${name}\n\n${degree} of **${field}**\n\n${location.city}, ${location.country} _(${span.from} - ${span.to})_`
   })
@@ -68,5 +68,5 @@ ${config.education
 `
 
 fs.writeFileSync(filePath, resume, {
-  flag: "w"
+  flag: "w",
 })

@@ -3,7 +3,7 @@
   "lastName": "Khorrami",
   "phoneNumber": "+989383831788",
   "email": "khorramiamindev@gmail.com",
-  "summary": "Solution-Driven Front-end Engineer with 5+ years of advanced programming and leveraging JavaScript to build creative web applications, websites, and outside-the-box features that drive business growth and improve UX.",
+  "summary": "Solution-Driven Front-end Engineer with 4+ years of advanced programming and leveraging JavaScript to build creative web applications, websites, and outside-the-box features that drive business growth and improve UX.",
   "birthday": {
     "year": 1999,
     "month": 6,
@@ -37,31 +37,41 @@
       "title": "Front-end Engineer",
       "company": "Dorfak Intelligent systems",
       "span": {
-        "from": "Jun 2020",
-        "to": "Nov 2021"
+        "from": "Nov 2020",
+        "to": "Present"
       },
       "location": "Tehran, Iran",
+      "description": "Automate the application of smart trading strategies for multiple and variant investors."
+    },
+    {
+      "title": "Freelance Front-end Engineer at Various International Companies",
+      "company": "",
+      "jobDetails": [
+        {
+          "company": "Ovou - Toronto, Canada",
+          "description": "Created a way to showcase the entirety of who people are."
+        },
+        {
+          "company": "SolutionChain - Tbilisi, Georgia",
+          "description": "Provide fully qualified staff for telecommunication, call center and data entry staff with considerably less wage."
+        }
+      ],
+      "span": {
+        "from": "Dec 2017",
+        "to": "Sep 2020"
+      },
+      "location": "",
       "description": ""
     },
     {
       "title": "Front-end Engineer",
       "company": "SynApps",
       "span": {
-        "from": "Nov 2018",
-        "to": "Nov 2019"
+        "from": "Aug 2019",
+        "to": "Jun 2020"
       },
-      "location": "Remote with Toronto Area, Canada",
-      "description": ""
-    },
-    {
-      "title": "Front-end Engineer",
-      "company": "SynApps",
-      "span": {
-        "from": "Nov 2018",
-        "to": "Nov 2019"
-      },
-      "location": "Remote with Tor Area, Finland",
-      "description": ""
+      "location": "Tehran, Iran",
+      "description": "Help doctors to document and access all patient data, streamline workflows and help to improve both patient safety and doctor experience."
     },
     {
       "title": "Open-Source Developer",
@@ -75,14 +85,14 @@
       "hidden": true
     },
     {
-      "title": "Co-Founder of Misafeh",
-      "company": "Senior Representative of HackaGlobal",
+      "title": "Co-Founder, Web Developer",
+      "company": "Misarfeh",
       "span": {
-        "from": "Jun 2017",
-        "to": "Dec 2018"
+        "from": "Oct 2018",
+        "to": "Sep 2019"
       },
-      "location": "Iran",
-      "description": ""
+      "location": "Tehan, Iran",
+      "description": "Founded a startup that focuses on the development of new purchases."
     },
     {
       "title": "Programming Teacher",
@@ -97,10 +107,10 @@
     },
     {
       "title": "Programming Teacher",
-      "company": "Tehran Institute of Technology, Sampad (NODET), Kabiry Institute",
+      "company": "Imam Khomeini International University, Sampad (NODET)",
       "span": {
-        "from": "Apr 2013",
-        "to": "Jan 2018"
+        "from": "Apr 2016",
+        "to": "Dec 2018"
       },
       "location": "Tehran, Iran",
       "description": ""
@@ -150,25 +160,39 @@
       "hidden": true
     }
   ],
-  "honors": [
+  "achievements": [
     {
-      "rank": "Gold Medal, National Rank (1) Holder",
-      "field": "Web Design Olympiads",
-      "in": "14th National WorldSkills Competition",
-      "year": 2013,
+      "rank": "Member of University's ICPC team",
+      "field": "Software Engineering",
+      "in": "43th ACM International Collegiate Programming Contest",
+      "year": 2020,
       "location": "Iran"
     },
     {
-      "rank": "National Rank (1) Holder",
+      "rank": "Voted “Best Engineer” by the bachelor’s student body",
+      "field": "Software Engineering",
+      "in": "Imam Khomeini University",
+      "year": 2019,
+      "location": "Iran"
+    },
+    {
+      "rank": "Completed the Data or Specimens Only Research online course in the CITI Program",
+      "field": "",
+      "in": "Collaborative Institutional Training Initiative",
+      "year": 2019,
+      "location": "Online"
+    },
+    {
+      "rank": "National Rank (3) Holder",
       "field": "Front-end Development",
       "in": "3rd Fanavard National Contest of Sharif University",
-      "year": 2016,
+      "year": 2017,
       "location": "Iran"
     }
   ],
   "education": [
     {
-      "name": "Shiraz University of Science and Technology",
+      "name": "Imam Khomeini International University",
       "location": {
         "city": "Qazvin",
         "country": "Iran"
@@ -181,28 +205,14 @@
       "degree": "Bachelor Degree"
     },
     {
-      "name": "Azad University Of Karaj",
-      "location": {
-        "city": "Karaj",
-        "country": "Iran"
-      },
-      "span": {
-        "from": 2014,
-        "to": 2017
-      },
-      "field": "Information Technology",
-      "degree": "Bachelor Degree",
-      "hidden": true
-    },
-    {
       "name": "NODET Highschool (National Organization for Development of Exceptional Talents)",
       "location": {
         "city": "Karaj",
         "country": "Iran"
       },
       "span": {
-        "from": 2007,
-        "to": 2014
+        "from": 2013,
+        "to": 2017
       },
       "field": "Mathematics and Physics",
       "degree": "Diploma"
@@ -232,7 +242,7 @@
       },
       {
         "name": "Typescript",
-        "level": "intermediate"
+        "level": "advanced"
       },
       {
         "name": "Three.js",
@@ -249,34 +259,16 @@
       {
         "name": "Real-time systems (WebSocket)",
         "level": "intermediate"
-      }
-    ],
-    "Digital Arts": [
-      {
-        "name": "Figma",
-        "level": "advanced"
       },
       {
-        "name": "Adobe Photoshop",
-        "level": "advanced"
-      },
-      {
-        "name": "Generative Arts",
-        "level": "advanced"
-      },
-      {
-        "name": "Affinity Designer",
-        "level": "intermediate"
-      },
-      {
-        "name": "Blender",
+        "name": "Go lang",
         "level": "intermediate"
       }
     ],
     "Softskills": [
       {
         "name": "Teaching",
-        "level": "advanced"
+        "level": "intermediate"
       },
       {
         "name": "Leadership",
@@ -287,10 +279,42 @@
         "level": "intermediate"
       }
     ],
+    "Digital Arts": [
+      {
+        "name": "Adobe Photoshop",
+        "level": "advanced"
+      },
+      {
+        "name": "Figma",
+        "level": "intermediate"
+      },
+      {
+        "name": "Ableton",
+        "level": "intermediate"
+      },
+      {
+        "name": "FL Studio",
+        "level": "intermediate"
+      },
+      {
+        "name": "Blender",
+        "level": "intermediate"
+      },
+
+      {
+        "name": "Generative Arts",
+        "level": "basic"
+      }
+    ],
     "Other": [
       {
-        "name": "Clay Sculpting",
+        "name": "Kamancheh Playing",
         "level": "intermediate"
+      },
+
+      {
+        "name": "Keyboard Playing",
+        "level": "basic"
       }
     ]
   }
