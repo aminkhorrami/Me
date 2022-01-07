@@ -1,3 +1,4 @@
+
 <img src="https://www.gravatar.com/avatar/4e2ea46490833193e44172bad8b63e0b?s=200" alt="Amin Khorrami" style="border-radius: 10px;" />
 
 # Amin Khorrami
@@ -17,7 +18,6 @@ Solution-Driven Front-end Engineer with 4+ years of advanced programming and lev
 ## Highlight Skills
 
 ### Programming
-
 - Modern Front-end Development Technologies (such as Webpack, SASS, Jest, Babel) _(advanced)_
 - Javascript _(advanced)_
 - Vue.js _(advanced)_
@@ -31,71 +31,67 @@ Solution-Driven Front-end Engineer with 4+ years of advanced programming and lev
 - Go lang _(intermediate)_
 
 ### Softskills
-
 - Teaching _(intermediate)_
 - Leadership _(intermediate)_
 - Agile/Scrum _(intermediate)_
 
 ### Digital Arts
-
 - Adobe Photoshop _(advanced)_
+- Figma _(intermediate)_
 - Ableton _(intermediate)_
 - FL Studio _(intermediate)_
 - Blender _(intermediate)_
-- Figma _(basic)_
 - Generative Arts _(basic)_
 
 ### Other
-
 - Kamancheh Playing _(intermediate)_
 - Keyboard Playing _(basic)_
 
 ## Experiences
 
 ### Front-end Engineer _at Dorfak Intelligent systems_
-
 Tehran, Iran
 _Nov 2020 - Present_
 Automate the application of smart trading strategies for multiple and variant investors.
 
 ### Freelance Front-end Engineer at Various International Companies _at _
 
-Remote with Toronto Area and Tbilisi
 _Dec 2017 - Sep 2020_
 
-### Front-end Engineer _at SynApps_
 
+### Front-end Engineer _at SynApps_
 Tehran, Iran
 _Aug 2019 - Jun 2020_
 Help doctors to document and access all patient data, streamline workflows and help to improve both patient safety and doctor experience.
 
 ### Co-Founder, Web Developer _at Misarfeh_
-
 Tehan, Iran
 _Oct 2018 - Sep 2019_
 Founded a startup that focuses on the development of new purchases.
 
 ### Programming Teacher _at Imam Khomeini International University, Sampad (NODET)_
-
 Tehran, Iran
 _Apr 2016 - Dec 2018_
 
-## Achievements
+
+## Honors
 
 ### Member of University's ICPC team _at Software Engineering_
-
 2020, Iran
 
 _43th ACM International Collegiate Programming Contest_
 
 ### Voted “Best Engineer” by the bachelor’s student body _at Software Engineering_
-
 2019, Iran
 
 _Imam Khomeini University_
 
-### National Rank (3) Holder _at Front-end Development_
+### Completed the Data or Specimens Only Research online course in the CITI Program _at _
+2019, Online
 
+_Collaborative Institutional Training Initiative_
+
+### National Rank (3) Holder _at Front-end Development_
 2017, Iran
 
 _3rd Fanavard National Contest of Sharif University_
